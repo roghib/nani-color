@@ -105,6 +105,5 @@ dist
 
 .vscode/**
 .vscode-test/**
-images/
 vsc-extension-quickstart.md
 *.vsix
