@@ -1,0 +1,31 @@
+{
+    "name": "nani",
+    "displayName": "Nani Color",
+    "description": "Nani color in japan",
+    "version": "1.0.7",
+    "publisher": "Roghib",
+    "author": {
+        "name": "Roghib"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/nani.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nani Color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nani-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/roghib/nani-color"
+    }
+}
+

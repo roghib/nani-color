@@ -1,0 +1,51 @@
+# Change Log
+
+All notable changes to the "Nani Color" extension will be documented in this file.
+
+## [1.0.6] - 2021-04-21
+### Added
+- Purple, Black, White and Green
+
+## [1.0.6] - 2021-02-21
+### Added
+- styled by the standard themes
+
+## [1.0.5] - 2021-02-21
+### Added
+- New Style
+
+## [1.0.4] - 2020-11-21
+### Added
+- New Style
+
+## [1.0.3] - 2020-11-21
+### Added
+- New Style
+
+### Remove
+- images
+
+## [1.0.2] - 2020-08-18
+
+## [1.0.1] - 2020-08-18
+### Added
+- New Style
+
+### Remove
+- BracketMatch.border
+
+## [1.0.0] - 2020-05-27
+### Added
+- New Style
+
+## [0.0.2] - 2020-05-27
+### Added
+- Small Perfection
+
+## [0.0.1] - 2020-05-26
+### Added
+- This CHANGELOG file to hopefully serve as an evolving example of a standardized open source project CHANGELOG.
+
+## [Unreleased]
+
+- Initial release
