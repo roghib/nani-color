@@ -2,7 +2,11 @@
 
 All notable changes to the "Nani Color" extension will be documented in this file.
 
-## [1.0.6] - 2021-04-21
+## [1.0.8] - 2021-04-28
+### Added
+- Blackpink
+
+## [1.0.7] - 2021-04-21
 ### Added
 - Purple, Black, White and Green
 
