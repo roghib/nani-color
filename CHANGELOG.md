@@ -2,6 +2,12 @@
 
 All notable changes to the "Nani Color" extension will be documented in this file.
 
+## [1.0.9] - 2021-05-07
+### Added
+- Toolbar background
+- Button border
+- New Style
+
 ## [1.0.8] - 2021-04-28
 ### Added
 - Blackpink

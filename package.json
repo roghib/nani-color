@@ -2,13 +2,13 @@
     "name": "nani",
     "displayName": "Nani Color",
     "description": "Nani color in japan",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "publisher": "Roghib",
     "author": {
         "name": "Roghib"
     },
     "engines": {
-        "vscode": "^1.55.0"
+        "vscode": "^1.56.0"
     },
     "categories": [
         "Themes"
