@@ -2,6 +2,15 @@
 
 All notable changes to the "Nani Color" extension will be documented in this file.
 
+## [1.1.1] - 2021-05-20
+### Added
+- Toolbar background
+- Activity background
+- symbolIcon
+
+## [1.1.0] - 2021-05-07
+- Purple
+
 ## [1.0.9] - 2021-05-07
 ### Added
 - Toolbar background
