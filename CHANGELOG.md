@@ -2,6 +2,11 @@
 
 All notable changes to the "Nani Color" extension will be documented in this file.
 
+## [1.1.2] - 2021-08-26
+### Added
+- Banner background
+- Soft border
+
 ## [1.1.1] - 2021-05-20
 ### Added
 - Toolbar background
