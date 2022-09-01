@@ -2,6 +2,10 @@
 
 All notable changes to the "Nani Color" extension will be documented in this file.
 
+## [1.1.3] - 2022-09-01
+### Added
+- disabledForeground
+
 ## [1.1.2] - 2021-08-26
 ### Added
 - Banner background
