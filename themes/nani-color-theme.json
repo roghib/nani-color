@@ -4,13 +4,17 @@
 	"colors": {
 		"foreground": "#ffffff",
 		"focusBorder": "#777777",
-		"errorForeground": "#ff0000",
+		"errorForeground": "#dd0000",
+		"disabledForeground": "#333333",
+		"descriptionForeground": "#ffffff",
 		"icon.foreground": "#00dd00",
 		"toolbar.hoverOutline": "#ffffff55",
 		"toolbar.hoverBackground": "#00000033",
 		"toolbar.activeBackground": "#00000033",
 		"selection.background": "#007733",
-
+		"sash.hoverBorder": "#555555",
+		"widget.shadow": "#000000",
+		
 		"activityBar.background": "#110044",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.activeBackground": "#007733",
@@ -25,8 +29,8 @@
 		"badge.background": "#007733",
 		"badge.foreground": "#ffffff",
 
-"banner.background": "#000999",
-"banner.foreground": "#ffffff",
+		"banner.background": "#000999",
+		"banner.foreground": "#ffffff",
 
 		"breadcrumb.background": "#110044",
 		"breadcrumb.foreground": "#dddddd",
@@ -231,9 +235,7 @@
 		"textLink.foreground": "#00bb00",
 		"textLink.activeForeground": "#00ff00",
 
-		"welcomePage.background": "#000011",
-		"welcomePage.buttonBackground": "#000000",
-		"welcomePage.buttonHoverBackground": "#330099",
+		"welcomePage.background": "#000011"
 
 	},
 	"tokenColors": [
