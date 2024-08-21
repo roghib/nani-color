@@ -2,6 +2,10 @@
 
 All notable changes to the "Nani Color" extension will be documented in this file.
 
+## [1.1.4] - 2024-08-21
+### Added
+- None
+
 ## [1.1.3] - 2022-09-01
 ### Added
 - disabledForeground
